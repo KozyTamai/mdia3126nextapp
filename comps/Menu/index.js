@@ -34,7 +34,7 @@ div {
 
 const Expand = styled.div`
 background: #FFFFFF;
-border: 1px solid #EAEAEA;
+border: 2px solid #EAEAEA;
 box-sizing: border-box;
 box-shadow: 5px 0px 18px rgba(0, 0, 0, 0.08);
 display: ${props=>props.expanded ? "inline-flex" : "hidden"};
